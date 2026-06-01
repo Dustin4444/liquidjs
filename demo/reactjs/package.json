@@ -32,8 +32,8 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@testing-library/react": "^16.0.0",
     "@types/react": "^18.3.4",
-    "@vitest/coverage-v8": "^2.0.5",
+    "@vitest/coverage-v8": "^4.1.8",
     "jsdom": "^25.0.0",
-    "vitest": "^2.0.5"
+    "vitest": "^4.1.8"
   }
 }
